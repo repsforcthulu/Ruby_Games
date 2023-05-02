@@ -1,4 +1,4 @@
-
+#12 lines of spaces
 class Tictac
   def start
     #put turn = 0 in init or right after def start
